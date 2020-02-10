@@ -20,5 +20,5 @@ JDK 1.6.0.13
 
 ## Output : Hello world from Alice!
 
-![Alt text] (https://github.com/sakshimahendrusjsu/Lab-0---Spring-HelloWorld/blob/master/_275SpringLab1/SCREENSHOT1.png)
-![Alt text] (https://github.com/sakshimahendrusjsu/Lab-0---Spring-HelloWorld/blob/master/_275SpringLab1/SCREENSHOT1.png)
+![alt text] (https://github.com/sakshimahendrusjsu/Lab-0---Spring-HelloWorld/blob/master/_275SpringLab1/SCREENSHOT1.png)
+![alt text] (https://github.com/sakshimahendrusjsu/Lab-0---Spring-HelloWorld/blob/master/_275SpringLab1/SCREENSHOT1.png)
