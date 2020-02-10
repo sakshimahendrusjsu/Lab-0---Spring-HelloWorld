@@ -20,5 +20,5 @@ JDK 1.6.0.13
 
 ## Output : Hello world from Alice!
 
-![Alt text] (_275SpringLab1/SCREENSHOT1.png)
-![Alt text] (_275SpringLab1/SCREENSHOT2.png)
+![Alt text] (http://_275SpringLab1/SCREENSHOT1.png)
+![Alt text] (htpp://_275SpringLab1/SCREENSHOT2.png)
